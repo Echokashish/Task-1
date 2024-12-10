@@ -19,10 +19,12 @@ Pie Chart: "Sum of Profit by Region"
 Highlights the contribution of different regions (West, East, North, South) to the overall profit.
 Each segment is labeled with the profit value and its percentage share of the total.
 Line Chart: "Sum of Profit by Region"
-
 Shows the profit distribution across regions in descending order (West, East, North, South).
 Indicates a gradual decrease in profit moving across the regions.
 KPI Card: "2.51M Sum of Profit"
 
 Displays the total profit from all regions and products combined.
 The dashboard effectively conveys an overview of how products and regions contribute to sales and profits, enabling data-driven decision-making. 
+
+![image](https://github.com/user-attachments/assets/d8ac041e-f6b5-4464-9a99-9314e418e2c9)
+
